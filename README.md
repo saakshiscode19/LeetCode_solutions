@@ -85,6 +85,7 @@
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0038-count-and-say) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Prefix Sum
 |  |
