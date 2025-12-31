@@ -91,4 +91,12 @@
 |  |
 | ------- |
 | [2483-minimum-penalty-for-a-shop](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/2483-minimum-penalty-for-a-shop) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0024-swap-nodes-in-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
