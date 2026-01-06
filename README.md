@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0042-trapping-rain-water) |
+| [0096-unique-binary-search-trees](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0096-unique-binary-search-trees) |
 | [2054-two-best-non-overlapping-events](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/2054-two-best-non-overlapping-events) |
 ## Stack
 |  |
@@ -38,6 +39,7 @@
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -62,6 +64,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -113,11 +116,13 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0098-validate-binary-search-tree) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0066-plus-one) |
+| [0096-unique-binary-search-trees](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0096-unique-binary-search-trees) |
 | [1390-four-divisors](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1390-four-divisors) |
 ## Database
 |  |
