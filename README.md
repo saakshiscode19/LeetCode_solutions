@@ -36,6 +36,7 @@
 | [0042-trapping-rain-water](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0085-maximal-rectangle) |
 | [0145-binary-tree-postorder-traversal](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0155-min-stack) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -154,4 +155,8 @@
 | [0085-maximal-rectangle](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0085-maximal-rectangle) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1975-maximum-matrix-sum](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1975-maximum-matrix-sum) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
