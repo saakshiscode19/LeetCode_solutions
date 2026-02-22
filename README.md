@@ -18,6 +18,7 @@
 | [2054-two-best-non-overlapping-events](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [3074-apple-redistribution-into-boxes](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3637-trionic-array-i](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/3637-trionic-array-i) |
 ## Two Pointers
 |  |
 | ------- |
