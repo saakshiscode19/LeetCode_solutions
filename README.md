@@ -159,4 +159,8 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0155-min-stack) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0868-binary-gap](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0868-binary-gap) |
 <!---LeetCode Topics End-->
