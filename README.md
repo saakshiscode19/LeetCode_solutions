@@ -30,6 +30,7 @@
 | [0042-trapping-rain-water](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0085-maximal-rectangle) |
 | [0096-unique-binary-search-trees](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0096-unique-binary-search-trees) |
+| [0279-perfect-squares](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0279-perfect-squares) |
 | [2054-two-best-non-overlapping-events](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/2054-two-best-non-overlapping-events) |
 ## Stack
 |  |
@@ -72,6 +73,7 @@
 | [0100-same-tree](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0279-perfect-squares](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0279-perfect-squares) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -138,6 +140,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0066-plus-one) |
 | [0096-unique-binary-search-trees](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0096-unique-binary-search-trees) |
+| [0279-perfect-squares](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0279-perfect-squares) |
 | [1390-four-divisors](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1390-four-divisors) |
 ## Database
 |  |
