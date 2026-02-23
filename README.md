@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0018-4sum) |
+| [0039-combination-sum](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0085-maximal-rectangle) |
@@ -167,4 +168,8 @@
 |  |
 | ------- |
 | [0868-binary-gap](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0868-binary-gap) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
