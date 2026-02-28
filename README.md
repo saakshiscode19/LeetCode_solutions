@@ -97,6 +97,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1929-concatenation-of-array](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1929-concatenation-of-array) |
 ## Binary Search
 |  |
@@ -150,6 +151,7 @@
 | [0096-unique-binary-search-trees](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0096-unique-binary-search-trees) |
 | [0279-perfect-squares](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0279-perfect-squares) |
 | [1390-four-divisors](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1390-four-divisors) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Database
 |  |
 | ------- |
@@ -176,6 +178,7 @@
 | ------- |
 | [0868-binary-gap](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0868-binary-gap) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Backtracking
 |  |
 | ------- |
