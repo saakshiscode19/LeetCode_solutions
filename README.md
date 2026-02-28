@@ -147,6 +147,7 @@
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0066-plus-one) |
 | [0096-unique-binary-search-trees](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0096-unique-binary-search-trees) |
 | [0279-perfect-squares](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0279-perfect-squares) |
@@ -176,6 +177,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0029-divide-two-integers) |
 | [0868-binary-gap](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0868-binary-gap) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
