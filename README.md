@@ -16,6 +16,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1390-four-divisors) |
 | [1470-shuffle-the-array](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1470-shuffle-the-array) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1929-concatenation-of-array) |
 | [1975-maximum-matrix-sum](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1975-maximum-matrix-sum) |
 | [2054-two-best-non-overlapping-events](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/2054-two-best-non-overlapping-events) |
