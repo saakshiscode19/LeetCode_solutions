@@ -57,6 +57,7 @@
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0110-balanced-binary-tree) |
@@ -69,6 +70,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0110-balanced-binary-tree) |
@@ -90,6 +92,7 @@
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0110-balanced-binary-tree) |
@@ -151,6 +154,7 @@
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0099-recover-binary-search-tree) |
 ## Math
 |  |
 | ------- |
