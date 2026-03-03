@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0042-trapping-rain-water) |
+| [0056-merge-intervals](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0085-maximal-rectangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -117,6 +118,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0056-merge-intervals) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2054-two-best-non-overlapping-events](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [3074-apple-redistribution-into-boxes](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/3074-apple-redistribution-into-boxes) |
