@@ -20,6 +20,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1390-four-divisors) |
 | [1470-shuffle-the-array](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1470-shuffle-the-array) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -116,6 +117,7 @@
 | ------- |
 | [0875-koko-eating-bananas](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0875-koko-eating-bananas) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2054-two-best-non-overlapping-events](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/2054-two-best-non-overlapping-events) |
 ## Sorting
 |  |
