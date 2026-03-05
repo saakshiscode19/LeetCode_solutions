@@ -161,6 +161,7 @@
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Recursion
 |  |
 | ------- |
