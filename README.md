@@ -207,6 +207,7 @@
 | [0584-find-customer-referee](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0584-find-customer-referee) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0595-big-countries) |
+| [0596-classes-with-at-least-5-students](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0620-not-boring-movies) |
 | [1045-customers-who-bought-all-products](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1045-customers-who-bought-all-products) |
 | [1757-recyclable-and-low-fat-products](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1757-recyclable-and-low-fat-products) |
