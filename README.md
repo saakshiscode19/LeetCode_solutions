@@ -29,6 +29,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1929-concatenation-of-array) |
 | [1975-maximum-matrix-sum](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1975-maximum-matrix-sum) |
+| [1980-find-unique-binary-string](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1980-find-unique-binary-string) |
 | [2054-two-best-non-overlapping-events](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [3074-apple-redistribution-into-boxes](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -161,6 +162,7 @@
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1980-find-unique-binary-string](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1980-find-unique-binary-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Prefix Sum
 |  |
@@ -212,6 +214,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0013-roman-to-integer) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1980-find-unique-binary-string](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1980-find-unique-binary-string) |
 ## Matrix
 |  |
 | ------- |
@@ -235,6 +238,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0039-combination-sum) |
+| [1980-find-unique-binary-string](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1980-find-unique-binary-string) |
 ## Counting
 |  |
 | ------- |
