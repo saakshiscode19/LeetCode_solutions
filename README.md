@@ -205,6 +205,7 @@
 | [0177-nth-highest-salary](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0178-rank-scores) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0183-customers-who-never-order](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0196-delete-duplicate-emails) |
 | [0584-find-customer-referee](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0584-find-customer-referee) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
