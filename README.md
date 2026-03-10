@@ -142,6 +142,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0239-sliding-window-maximum) |
 | [2054-two-best-non-overlapping-events](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/2054-two-best-non-overlapping-events) |
 ## Greedy
@@ -176,6 +177,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
@@ -264,4 +266,12 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0239-sliding-window-maximum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
