@@ -161,6 +161,7 @@
 | [0013-roman-to-integer](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0013-roman-to-integer) |
 | [0038-count-and-say](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0038-count-and-say) |
 | [0179-largest-number](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0179-largest-number) |
+| [0214-shortest-palindrome](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0214-shortest-palindrome) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -277,4 +278,16 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0023-merge-k-sorted-lists) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
