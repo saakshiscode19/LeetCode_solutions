@@ -242,6 +242,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0029-divide-two-integers) |
 | [0868-binary-gap](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0868-binary-gap) |
+| [1009-complement-of-base-10-integer](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1009-complement-of-base-10-integer) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Backtracking
