@@ -33,6 +33,7 @@
 | [1975-maximum-matrix-sum](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1975-maximum-matrix-sum) |
 | [1980-find-unique-binary-string](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1980-find-unique-binary-string) |
 | [2054-two-best-non-overlapping-events](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/2054-two-best-non-overlapping-events) |
+| [2965-find-missing-and-repeated-values](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3074-apple-redistribution-into-boxes](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -218,6 +219,7 @@
 | [0279-perfect-squares](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0279-perfect-squares) |
 | [1390-four-divisors](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1390-four-divisors) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2965-find-missing-and-repeated-values](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Database
 |  |
@@ -247,6 +249,7 @@
 | [0169-majority-element](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0169-majority-element) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1980-find-unique-binary-string](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1980-find-unique-binary-string) |
+| [2965-find-missing-and-repeated-values](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
 | ------- |
@@ -255,6 +258,7 @@
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1975-maximum-matrix-sum](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1975-maximum-matrix-sum) |
+| [2965-find-missing-and-repeated-values](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Design
 |  |
 | ------- |
