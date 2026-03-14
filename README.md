@@ -194,10 +194,12 @@
 | [0024-swap-nodes-in-pairs](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0203-remove-linked-list-elements](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0203-remove-linked-list-elements) |
 ## Recursion
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0203-remove-linked-list-elements](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0203-remove-linked-list-elements) |
 ## Binary Search Tree
 |  |
 | ------- |
