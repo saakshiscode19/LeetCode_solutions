@@ -218,6 +218,7 @@
 | [0189-rotate-array](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0189-rotate-array) |
 | [0279-perfect-squares](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0279-perfect-squares) |
 | [1390-four-divisors](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1390-four-divisors) |
+| [1622-fancy-sequence](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2965-find-missing-and-repeated-values](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -264,6 +265,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0155-min-stack) |
+| [1622-fancy-sequence](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1622-fancy-sequence) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -329,4 +331,8 @@
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Segment Tree
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1622-fancy-sequence) |
 <!---LeetCode Topics End-->
