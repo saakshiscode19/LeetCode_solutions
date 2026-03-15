@@ -175,6 +175,7 @@
 | [0038-count-and-say](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0038-count-and-say) |
 | [0179-largest-number](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0214-shortest-palindrome) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -218,6 +219,7 @@
 | [0096-unique-binary-search-trees](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0189-rotate-array) |
 | [0279-perfect-squares](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0279-perfect-squares) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1390-four-divisors](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1390-four-divisors) |
 | [1622-fancy-sequence](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
