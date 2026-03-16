@@ -24,6 +24,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1390-four-divisors) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1470-shuffle-the-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
