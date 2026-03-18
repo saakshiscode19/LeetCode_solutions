@@ -38,6 +38,7 @@
 | [1980-find-unique-binary-string](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1980-find-unique-binary-string) |
 | [2054-two-best-non-overlapping-events](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2965-find-missing-and-repeated-values](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/2965-find-missing-and-repeated-values) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3074-apple-redistribution-into-boxes](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -198,6 +199,7 @@
 | [0410-split-array-largest-sum](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0410-split-array-largest-sum) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/2483-minimum-penalty-for-a-shop) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Linked List
@@ -280,6 +282,7 @@
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1975-maximum-matrix-sum](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1975-maximum-matrix-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/2965-find-missing-and-repeated-values) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Design
 |  |
 | ------- |
