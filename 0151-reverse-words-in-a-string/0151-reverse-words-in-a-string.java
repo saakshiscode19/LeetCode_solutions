@@ -1,29 +1,11 @@
+import java.util.*;
+
 class Solution {
     public String reverseWords(String s) {
-        String[] words = s.split(" ");
+        String[] words = s.trim().split("\\s+");  // handle extra spaces
         
-        int left = 0;
-        int right = words.length - 1;
-
-        while (left < right) {
-            String temp = words[left];
-            words[left] = words[right];
-            words[right] = temp;   // FIXED
-            left++;
-            right--;
-        }
-
-        StringBuilder result = new StringBuilder();
-
-        for (String word : words) {
-            if (!word.isEmpty()) {
-                if (result.length() > 0) {
-                    result.append(" ");
-                }
-                result.append(word);   // FIXED position
-            }
-        }
-
-        return result.toString();
+        Collections.reverse(Arrays.asList(words));
+        
+        return String.join(" ", words);
     }
 }
