@@ -50,6 +50,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0042-trapping-rain-water) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0151-reverse-words-in-a-string](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
 ## Dynamic Programming
@@ -184,6 +185,7 @@
 | [0012-integer-to-roman](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0013-roman-to-integer) |
 | [0038-count-and-say](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0038-count-and-say) |
+| [0151-reverse-words-in-a-string](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0214-shortest-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
