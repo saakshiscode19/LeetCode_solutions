@@ -41,6 +41,7 @@
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3074-apple-redistribution-into-boxes](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3637-trionic-array-i](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/3637-trionic-array-i) |
 ## Two Pointers
@@ -206,6 +207,7 @@
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Linked List
 |  |
 | ------- |
@@ -287,6 +289,7 @@
 | [1975-maximum-matrix-sum](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1975-maximum-matrix-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Design
 |  |
 | ------- |
