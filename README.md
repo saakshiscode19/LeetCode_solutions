@@ -19,6 +19,7 @@
 | [0410-split-array-largest-sum](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0875-koko-eating-bananas) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -321,6 +322,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0239-sliding-window-maximum) |
+| [0643-maximum-average-subarray-i](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Queue
 |  |
