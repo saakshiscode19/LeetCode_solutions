@@ -146,6 +146,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0436-find-right-interval) |
+| [0441-arranging-coins](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0441-arranging-coins) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0875-koko-eating-bananas) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -249,6 +250,7 @@
 | [0096-unique-binary-search-trees](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0189-rotate-array) |
 | [0279-perfect-squares](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0279-perfect-squares) |
+| [0441-arranging-coins](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0441-arranging-coins) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1390-four-divisors](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1390-four-divisors) |
 | [1622-fancy-sequence](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1622-fancy-sequence) |
