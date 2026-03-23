@@ -32,6 +32,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -71,6 +72,7 @@
 | [0279-perfect-squares](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0279-perfect-squares) |
 | [0392-is-subsequence](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0410-split-array-largest-sum) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2054-two-best-non-overlapping-events](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -300,6 +302,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
