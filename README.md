@@ -235,6 +235,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0203-remove-linked-list-elements) |
+| [0328-odd-even-linked-list](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0328-odd-even-linked-list) |
 ## Recursion
 |  |
 | ------- |
