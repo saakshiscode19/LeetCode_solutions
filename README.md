@@ -291,6 +291,7 @@
 | [1045-customers-who-bought-all-products](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1045-customers-who-bought-all-products) |
 | [1068-product-sales-analysis-i](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1148-article-views-i) |
+| [1251-average-selling-price](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1251-average-selling-price) |
 | [1527-patients-with-a-condition](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1527-patients-with-a-condition) |
 | [1661-average-time-of-process-per-machine](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1661-average-time-of-process-per-machine) |
 | [1667-fix-names-in-a-table](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1667-fix-names-in-a-table) |
