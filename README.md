@@ -229,6 +229,7 @@
 | [1980-find-unique-binary-string](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1980-find-unique-binary-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2573-find-the-string-with-lcp](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/2573-find-the-string-with-lcp) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Prefix Sum
 |  |
 | ------- |
