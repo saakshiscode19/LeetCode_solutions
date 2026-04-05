@@ -276,6 +276,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0029-divide-two-integers) |
