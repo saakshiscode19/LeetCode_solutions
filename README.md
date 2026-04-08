@@ -59,6 +59,7 @@
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3637-trionic-array-i](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/3637-trionic-array-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/3643-flip-square-submatrix-vertically) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -160,6 +161,7 @@
 | [1929-concatenation-of-array](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1929-concatenation-of-array) |
 | [2751-robot-collisions](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -398,6 +400,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0169-majority-element) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Merge Sort
 |  |
 | ------- |
