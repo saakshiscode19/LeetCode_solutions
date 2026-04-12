@@ -287,6 +287,7 @@
 | [0029-divide-two-integers](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0066-plus-one) |
 | [0096-unique-binary-search-trees](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0096-unique-binary-search-trees) |
+| [0172-factorial-trailing-zeroes](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0189-rotate-array) |
 | [0279-perfect-squares](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0279-perfect-squares) |
 | [0441-arranging-coins](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0441-arranging-coins) |
