@@ -45,6 +45,7 @@
 | [1980-find-unique-binary-string](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1980-find-unique-binary-string) |
 | [2054-two-best-non-overlapping-events](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2751-robot-collisions](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/2751-robot-collisions) |
 | [2906-construct-product-matrix](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/2906-construct-product-matrix) |
@@ -240,6 +241,7 @@
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1980-find-unique-binary-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
