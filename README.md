@@ -161,6 +161,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0657-robot-return-to-origin) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1929-concatenation-of-array](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1929-concatenation-of-array) |
 | [2751-robot-collisions](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/2751-robot-collisions) |
@@ -233,6 +234,7 @@
 | [0214-shortest-palindrome](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0214-shortest-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0392-is-subsequence) |
+| [0657-robot-return-to-origin](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0657-robot-return-to-origin) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
