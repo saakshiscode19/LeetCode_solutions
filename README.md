@@ -38,6 +38,7 @@
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1929-concatenation-of-array](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1929-concatenation-of-array) |
@@ -76,6 +77,7 @@
 | [0189-rotate-array](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0392-is-subsequence) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3643-flip-square-submatrix-vertically](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Dynamic Programming
 |  |
@@ -179,6 +181,7 @@
 | [0875-koko-eating-bananas](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0875-koko-eating-bananas) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2054-two-best-non-overlapping-events](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3488-closest-equal-element-queries](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/3488-closest-equal-element-queries) |
