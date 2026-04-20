@@ -45,6 +45,7 @@
 | [1975-maximum-matrix-sum](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1975-maximum-matrix-sum) |
 | [1980-find-unique-binary-string](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1980-find-unique-binary-string) |
 | [2054-two-best-non-overlapping-events](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/2054-two-best-non-overlapping-events) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/2573-find-the-string-with-lcp) |
@@ -221,6 +222,7 @@
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1975-maximum-matrix-sum](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1975-maximum-matrix-sum) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2573-find-the-string-with-lcp](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/2573-find-the-string-with-lcp) |
 | [3074-apple-redistribution-into-boxes](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/3075-maximize-happiness-of-selected-children) |
