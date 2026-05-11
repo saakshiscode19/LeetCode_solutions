@@ -48,6 +48,7 @@
 | [2078-two-furthest-houses-with-different-colors](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2573-find-the-string-with-lcp](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2751-robot-collisions](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/2751-robot-collisions) |
 | [2906-construct-product-matrix](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/2906-construct-product-matrix) |
@@ -168,6 +169,7 @@
 | [0657-robot-return-to-origin](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0657-robot-return-to-origin) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1929-concatenation-of-array](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1929-concatenation-of-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
