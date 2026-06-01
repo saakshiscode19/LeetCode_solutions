@@ -11,6 +11,7 @@
 | [0042-trapping-rain-water](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0085-maximal-rectangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -350,6 +351,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0169-majority-element) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1980-find-unique-binary-string](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1980-find-unique-binary-string) |
@@ -363,6 +365,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0085-maximal-rectangle) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
