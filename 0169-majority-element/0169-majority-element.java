@@ -1,31 +1,20 @@
+import java.util.HashMap;
+
 class Solution {
     public int majorityElement(int[] nums) {
-        int n = nums.length;
-        int count = 1;
-        int majority = nums[0];
 
-        for(int i = 1; i<n; i++){
-            if(nums[i] == majority){
-                count++;
-            }else{
-                count--;
-                if(count ==0)
-                {
-                    majority = nums[i];
-                    count =1;
-                }
+        HashMap<Integer, Integer> map = new HashMap<>();
+
+        for (int i = 0; i < nums.length; i++) {
+            map.put(nums[i], map.getOrDefault(nums[i], 0) + 1);
+        }
+
+        for (Integer key : map.keySet()) {
+            if (map.get(key) > nums.length / 2) {
+                return key;
             }
         }
-        count =0;
-        for(int i =0; i<n; i++)
-        {
-            if(nums[i] == majority){
-                count++;
-            }
-        }
-        if(count > n/2)
-        return majority;
-        else
+
         return -1;
     }
 }
