@@ -215,6 +215,7 @@
 | [0088-merge-sorted-array](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0242-valid-anagram) |
 | [0436-find-right-interval](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0436-find-right-interval) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -262,6 +263,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0214-shortest-palindrome) |
+| [0242-valid-anagram](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0392-is-subsequence) |
 | [0657-robot-return-to-origin](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0657-robot-return-to-origin) |
@@ -369,6 +371,7 @@
 | [0013-roman-to-integer](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0242-valid-anagram) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1980-find-unique-binary-string](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1980-find-unique-binary-string) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/2215-find-the-difference-of-two-arrays) |
