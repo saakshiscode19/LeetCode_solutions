@@ -291,6 +291,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -300,6 +301,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0203-remove-linked-list-elements) |
 ## Binary Search Tree
