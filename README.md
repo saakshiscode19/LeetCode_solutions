@@ -26,6 +26,7 @@
 | [0198-house-robber](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0198-house-robber) |
 | [0228-summary-ranges](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0228-summary-ranges) |
 | [0239-sliding-window-maximum](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0239-sliding-window-maximum) |
+| [0349-intersection-of-two-arrays](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0436-find-right-interval) |
 | [0485-max-consecutive-ones](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0485-max-consecutive-ones) |
@@ -92,6 +93,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0392-is-subsequence) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -192,6 +194,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0436-find-right-interval) |
@@ -216,6 +219,7 @@
 | [0169-majority-element](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0436-find-right-interval](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0436-find-right-interval) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -372,6 +376,7 @@
 | [0073-set-matrix-zeroes](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1980-find-unique-binary-string](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1980-find-unique-binary-string) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/2215-find-the-difference-of-two-arrays) |
