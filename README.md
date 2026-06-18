@@ -11,6 +11,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0066-plus-one) |
@@ -106,6 +107,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0085-maximal-rectangle) |
 | [0096-unique-binary-search-trees](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0096-unique-binary-search-trees) |
@@ -249,6 +251,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0179-largest-number) |
