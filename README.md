@@ -30,6 +30,7 @@
 | [0198-house-robber](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0198-house-robber) |
 | [0228-summary-ranges](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0228-summary-ranges) |
 | [0239-sliding-window-maximum](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0239-sliding-window-maximum) |
+| [0274-h-index](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0436-find-right-interval) |
@@ -228,6 +229,7 @@
 | [0169-majority-element](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0436-find-right-interval](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0436-find-right-interval) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -512,4 +514,8 @@
 | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/3548-equal-sum-grid-partition-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
