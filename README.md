@@ -27,6 +27,7 @@
 | [0134-gas-station](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0136-single-number) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0189-rotate-array) |
@@ -216,6 +217,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0374-guess-number-higher-or-lower) |
