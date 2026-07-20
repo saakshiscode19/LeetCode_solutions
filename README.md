@@ -12,6 +12,7 @@
 | [0039-combination-sum](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0066-plus-one) |
@@ -233,6 +234,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0088-merge-sorted-array) |
@@ -292,6 +294,7 @@
 | [0012-integer-to-roman](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0013-roman-to-integer) |
 | [0038-count-and-say](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0205-isomorphic-strings) |
@@ -409,6 +412,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0205-isomorphic-strings) |
