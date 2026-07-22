@@ -107,6 +107,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -246,6 +247,7 @@
 | [0056-merge-intervals](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0242-valid-anagram) |
@@ -352,6 +354,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0148-sort-list](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0203-remove-linked-list-elements) |
 | [0328-odd-even-linked-list](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0328-odd-even-linked-list) |
 ## Recursion
@@ -509,12 +512,14 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0169-majority-element) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0148-sort-list) |
 ## Rolling Hash
 |  |
 | ------- |
