@@ -164,6 +164,7 @@
 | [0110-balanced-binary-tree](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0872-leaf-similar-trees) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -179,6 +180,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0872-leaf-similar-trees) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -190,6 +192,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0279-perfect-squares) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
@@ -203,6 +206,7 @@
 | [0110-balanced-binary-tree](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0872-leaf-similar-trees) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
