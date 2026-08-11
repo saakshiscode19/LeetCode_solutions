@@ -48,6 +48,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0658-find-k-closest-elements) |
 | [0724-find-pivot-index](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0875-koko-eating-bananas) |
@@ -114,6 +115,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0392-is-subsequence) |
+| [0658-find-k-closest-elements](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0658-find-k-closest-elements) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/3643-flip-square-submatrix-vertically) |
@@ -236,6 +238,7 @@
 | [0410-split-array-largest-sum](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0441-arranging-coins) |
+| [0658-find-k-closest-elements](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0658-find-k-closest-elements) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -263,6 +266,7 @@
 | [0274-h-index](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0436-find-right-interval](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0436-find-right-interval) |
+| [0658-find-k-closest-elements](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0658-find-k-closest-elements) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -278,6 +282,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0239-sliding-window-maximum) |
+| [0658-find-k-closest-elements](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0658-find-k-closest-elements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -508,6 +513,7 @@
 | [0219-contains-duplicate-ii](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0658-find-k-closest-elements) |
 | [1004-max-consecutive-ones-iii](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
