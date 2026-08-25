@@ -136,6 +136,7 @@
 | [0392-is-subsequence](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0509-fibonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1143-longest-common-subsequence) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2054-two-best-non-overlapping-events](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/2054-two-best-non-overlapping-events) |
@@ -331,6 +332,7 @@
 | [0657-robot-return-to-origin](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0657-robot-return-to-origin) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1143-longest-common-subsequence](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1143-longest-common-subsequence) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -594,4 +596,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/0509-fibonacci-number) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/saakshiscode19/LeetCode_solutions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
